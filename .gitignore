@@ -1,0 +1,8 @@
+__pycache__/
+*.npy
+synthetic_datasets/
+figures/
+results/
+out_files/
+catboost_info/
+*_splits.pkl
