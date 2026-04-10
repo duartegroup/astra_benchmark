@@ -1,6 +1,6 @@
 # Repository for benchmarking ASTRA
 
-This repository contains the code for benchmarking [ASTRA](https://github.com/duartegroup/astra).
+This repository contains the code for benchmarking [ASTRA](https://github.com/duartegroup/astra). ASTRA was presented as a [poster](https://openreview.net/forum?id=Ld90kr48E2) at the [AI4Mat Workshop](https://sites.google.com/view/ai4mat/home) at ICLR. The exact state of ASTRA used in the benchmark can be found at [this tag](https://github.com/duartegroup/astra/tree/ai4mat-iclr-benchmark).
 
 # Setup
 
